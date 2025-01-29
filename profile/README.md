@@ -36,6 +36,7 @@ MansionNET is a collaborative space where technology meets community. While we c
 - **WeatherBot**: Real-time weather information bot using Open-Meteo API, designed for simplicity and zero-cost deployment
 - **MistralBot**: Your IRC AI assistant for intelligent conversations and code help, powered by Mistral AI
 - **SearchBot**: Privacy-focused search functionality using Hearch API for discrete information retrieval
+- **YouTubeBot**: YouTube bot that provides additional information for shared YouTube links, using the official API
 
 ## 🤝 Contributing
 
