@@ -12,9 +12,9 @@ Connect with our diverse community:
 - **Server**: irc.inthemansion.com
 - **SSL Port**: 6697
 - **Key Channels**: 
-  - #welcome - Start your journey here!
+  - #lobby - Start your journey here!
   - #devs - Connect with fellow developers
-  - #opers - Network operations and support
+  - #help - Network operations and support
 
 ## 💭 Our Philosophy
 
