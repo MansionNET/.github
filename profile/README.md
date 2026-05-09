@@ -49,6 +49,30 @@ We welcome contributions from everyone who shares our passion for technology and
 
 Every contribution helps make our community more vibrant and engaging!
 
+## ❤️ Support MansionNET
+
+MansionNET is entirely self-hosted and community-driven, meaning no ads, no sponsors, no tracking, and no corporate backing. Every service, bot, and system is funded and maintained out of pocket.
+
+If you enjoy the network, use the bots, listen to the radio, or simply want to support independent infrastructure and open communities, donations help keep the servers online and the projects evolving.
+
+```bash
+$ donate --fiat
+ko-fi.com/mansionnet
+
+$ donate --btc
+bc1qusakhfqjv7e6rc5jp3kelusululpfh3mefryd5
+
+$ donate --xmr
+42T4BHvXiJV9oYGM4jvyK38NvRrquSV9hEbv2gii78V4dXMQnxhPGMRfNGq17RdoXsaZsh2iFaczd2S2cSyxX1sAJnHFWBy
+
+$ donate --erg
+9gtSWJfWgBumCYzaUg1L5fMYuw44jPV7G9Lh8dD26iWULWd6nTK
+```
+
+100% of donations go directly toward powering MansionNET infrastructure, services, development, and community projects.
+
+Thank you for helping keep independent, self-hosted communities alive. 🏴‍☠️
+
 ## 📚 Resources
 
 - Each project includes detailed setup instructions in its respective repository
