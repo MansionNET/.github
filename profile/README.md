@@ -1,3 +1,10 @@
+> ## 📦 Our code has moved to our own forge
+>
+> MansionNET development now lives at **[git.inthemansion.com/MansionNET](https://git.inthemansion.com/MansionNET)**.
+> The repositories here on GitHub are **archived and read-only**, kept only as redirects.
+
+---
+
 # Welcome to MansionNET 👋
 
 Where retro technology meets modern innovation - we're a vibrant community of enthusiasts building open-source solutions while preserving the charm of classic protocols!
